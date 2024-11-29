@@ -12,20 +12,20 @@ This project implements a Bluetooth-controlled car using an Arduino board, the D
 ## Demo
 
 ### Images
+
 Here are some images of the car setup and hardware connections:
 
-1. **Car Images**:
+#### Car Images:
 
 ![Car Chassis](images/car1.jpeg)
 ![Car Chassis](images/car2.jpeg)
 
-2. **Circuit Connections**:
-   ![Circuit Diagram](images/circuit_diagram.jpg)
+#### Circuit Connections:
 
-3. **Final Assembly**:
-   ![Final Assembly](images/final_assembly.jpg)
+![Circuit Diagram](images/connection_diagram.png)
 
 ### Video Demo
+
 Watch the car in action!  
 [![Watch the Demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
 
@@ -37,14 +37,11 @@ Watch the car in action!
 - **Motors and Chassis**: Suitable for a two-wheel or four-wheel drive car.
 - **Power Supply**: Ensure adequate voltage and current for the motors and Arduino.
 
-## Circuit Diagram
-
-(You can add a diagram or link here if you have one.)
-
 ## Software Requirements
 
 - **Arduino IDE**: Download from [Arduino Official Website](https://www.arduino.cc/en/software).
 - **Dabble App**: Available on [Google Play Store](https://play.google.com) or [Apple App Store](https://apps.apple.com).
+
 
 ## How to Run the Code
 
@@ -74,9 +71,7 @@ This project uses the **Dabble** library. Follow these steps to install it:
 
 ### Step 3: Set Up the Hardware
 
-Chỗ này add thêm cái link share cái BOM và cái code design, với lại cái circuit đi dây
-
-1. Connect your Arduino, motor driver, Bluetooth module, and motors as described in the code comments.
+1. Connect your Arduino, motor driver, Bluetooth module, and motors as described [circuit connection](#circuit-connections).
 2. Ensure the Bluetooth module is paired with your smartphone.
 
 ### Step 4: Upload the Code
@@ -113,6 +108,14 @@ The code uses the Dabble library to process gamepad inputs. It adjusts motor spe
 - Motors Not Moving:
   - Verify wiring connections.
   - Check if the motor driver is powered correctly.
+
+## Resources
+
+- **Bill of Materials**: [Link to BOM](https://your-link-to-bom)  
+- **SolidWorks Design Files**: [Link to SolidWorks Design](https://your-link-to-solidworks-design)  
+- **Project Folder**: [Link to Shared Folder](https://your-shared-folder-link)
+
+You can download these resources for a detailed breakdown of the components and to view or modify the 3D design of the car.
 
 ## Contact
 
