@@ -42,7 +42,6 @@ Watch the car in action!
 - **Arduino IDE**: Download from [Arduino Official Website](https://www.arduino.cc/en/software).
 - **Dabble App**: Available on [Google Play Store](https://play.google.com) or [Apple App Store](https://apps.apple.com).
 
-
 ## How to Run the Code
 
 ### Step 1: Install Required Libraries
@@ -111,9 +110,9 @@ The code uses the Dabble library to process gamepad inputs. It adjusts motor spe
 
 ## Resources
 
-- **Bill of Materials**: [Link to BOM](https://your-link-to-bom)  
-- **SolidWorks Design Files**: [Link to SolidWorks Design](https://your-link-to-solidworks-design)  
-- **Project Folder**: [Link to Shared Folder](https://your-shared-folder-link)
+- **Bill of Materials**: [Link to BOM](https://drive.google.com/file/d/1NeTtn4kqzaLyDF8HMCqOOqshHmaYlbvh/view?usp=sharing)
+- **SolidWorks Design Files**: [Link to SolidWorks Design](https://drive.google.com/drive/folders/1Dy4kwb2qB5z0aydT4QYK-SnNjvvETE-3?usp=sharing)
+- **JDY 33 Datasheet**: [Link to JDY 33 Datasheet](https://drive.google.com/file/d/1JgxIsueg0vUJ0WwzK68iugCK8F0ch4ij/view?usp=sharing)
 
 You can download these resources for a detailed breakdown of the components and to view or modify the 3D design of the car.
 
