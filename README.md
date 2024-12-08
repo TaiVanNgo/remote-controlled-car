@@ -122,3 +122,4 @@ For questions or feedback, please contact:
 
 - Email: vantaingo.056@gmail.com
 - GitHub: TaiVanNgo
+- Linkedin: [Tai Ngo](https://www.linkedin.com/in/taivanngo/)
