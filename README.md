@@ -27,7 +27,7 @@ Here are some images of the car setup and hardware connections:
 ### Video Demo
 
 Watch the car in action!  
-[![Watch the Demo](https://img.youtube.com/vi/your_video_id/0.jpg)](https://www.youtube.com/watch?v=your_video_id)
+[![Watch the Demo](https://img.youtube.com/vi/kF8tTp8zaHc/0.jpg)](https://youtu.be/kF8tTp8zaHc)
 
 ## Hardware Requirements
 
